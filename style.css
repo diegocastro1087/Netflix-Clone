@@ -5,7 +5,7 @@ body {
     margin: 0px;
 }
 
-#Aviso{
+#aviso{
     background-color: rgb(255, 153, 0);
     display: flex;
     align-items: center;
@@ -15,7 +15,7 @@ body {
     padding: 50px;
 }
 
-#Aviso img{
+#aviso img{
     height: 200px;
 }
 
