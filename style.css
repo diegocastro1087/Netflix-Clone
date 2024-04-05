@@ -29,7 +29,7 @@ header {
 }
 
 #realmainsize {
-    background-image: url(/assets/mainbackground.jpg);
+    background-image: url(assets/mainbackground.jpg);
     background-repeat: none;
     background-size: cover;
     height: 100%;
