@@ -1,4 +1,4 @@
-Este site é uma cópia do estilo do site original da Netflix, com imagens cujo os direitos autorais são públicos. Ainda faltam partes lógicas a serem completadas.
+Este site é uma cópia do estilo do site original da Netflix. Ainda faltam partes lógicas a serem completadas.
 
 
 este é o link caso deseje acessar o site:<a href="https://diegocastro1087.github.io/Netflix-Clone/">Netflix Clone</a>
